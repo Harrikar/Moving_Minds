@@ -12,6 +12,7 @@
 
 ![drone chassis](https://github.com/Harrikar/Moving_Minds/blob/main/Assets/drone%20chassis_2.jpg)
 
+## Σύνθεση
 Χρησιμοποιήσαμε επιπλέον το γυροσκόπιο/επιτχυνσιόμετρο GY-521 (MPU6050) και έναν FlυSky Receiver, για να ελέγχουμε απομακρυσμένα το Drone. Επίσης, στο κέντρο τοποθετήσαμε μία πλακέτα για την τροφοδοσία των κινητήρων και του flight controller από την μπαταρία.
 
 ![drone on hand](https://github.com/Harrikar/Moving_Minds/blob/main/Assets/drone%20on%20hand_2.jpg)
